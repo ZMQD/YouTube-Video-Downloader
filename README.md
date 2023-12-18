@@ -6,9 +6,9 @@ This Python project allows you to download videos or playlists and convert them 
 ## Installation
 1. Clone this repository: `https://github.com/ZMQD/YouTube-Video-Downloader.git`
 2. Navigate to the project directory: `cd YouTube-Video-Downloader`
-3. Install the required packages: `pip install -r requirements.txt` If you are facing error try `pip install pytube tkinter moviepy`
+3. Install the required packages: `pip install -r requirements.txt` If you are facing an error try `pip install pytube tkinter moviepy`
 
-The downloaded MP4 files will be stored in the downloads directory.
+You can specify the directory where you want to store mp4.
 
 Contributing :
 If you want to improve GUI you can contact me.
